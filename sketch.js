@@ -9,7 +9,7 @@ var stand1,stand2;
 var ball;
 var slingShot;
 var polygon_img;
-var score:
+var score;
 function preload(){
   polygon_img=loadImage("polygon.png");
 }
